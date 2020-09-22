@@ -1,0 +1,47 @@
+.fact{
+ font-style: italic;
+ }
+
+.big{
+ font-weight: bold;
+ }
+
+.lis{
+ list-style-type: none;
+ }
+
+.boxtitle{
+ width: 306px;
+ height: 30px;
+ padding: 0.4em;
+ text-align: center;
+ font-family: cursive;
+ background-color: rgb(180%, 100%, 0%);
+ }
+
+.space{
+ border: 5px solid white;
+ }
+
+ .superbox{
+ width: 320px;
+ height: 880px;
+ padding: 0.8em;
+ border: 2px solid black;
+ margin: 5px;
+ background-color: rgb(120%, 80%, 0%);
+ }
+
+ .boximg{
+ padding: 0.3em;
+ margin: 5px;
+ }
+
+ .pbox{
+ border: 2px solid black;
+ padding: 0.6em;
+ margin: 10px;
+ background-color: white;
+ }
+ 
+ 
